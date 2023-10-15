@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Begum.
-My full name is Begum Kunac.
-I am a freshman in Bilkent University Department of Computer Engineering.
-- 👀 I’m interested in Java programming.
-- 🌱 I’m currently learning algorithms and programming.
-- 💞️ I’m looking to collaborate on interesting Java projects.
+- 👋 Hi, I’m @Begüm Kunaç.
 - 📫 You can reach me via kunac.begum@gmail.com
 
 <!---
